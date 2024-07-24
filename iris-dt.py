@@ -21,7 +21,7 @@ max_depth=10
 
 mlflow.set_experiment('iris-dt')
 # Log model hyperparameters and metrics to the MLflow server
-with mlflow.start_run(run_name='maitriai'):
+with mlflow.start_run():
     
     # Build and Train the Model
     model = DecisionTreeClassifier(max_depth=max_depth)
