@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/547525848799594067/e5289c1c79af423d9f22e173a0a40de5/artifacts
+end_time: 1721902159922
+entry_point_name: ''
+experiment_id: '547525848799594067'
+lifecycle_stage: active
+run_id: e5289c1c79af423d9f22e173a0a40de5
+run_name: serious-fowl-180
+run_uuid: e5289c1c79af423d9f22e173a0a40de5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721902154954
+status: 3
+tags: []
+user_id: Pradeep

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/329480548196834908/5e6ffb2ad78b4bdb84b674c424870368/artifacts
+deleted_time: 1721901560581
+end_time: 1721901239884
+entry_point_name: ''
+experiment_id: '329480548196834908'
+lifecycle_stage: deleted
+run_id: 5e6ffb2ad78b4bdb84b674c424870368
+run_name: peaceful-conch-888
+run_uuid: 5e6ffb2ad78b4bdb84b674c424870368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721901234656
+status: 3
+tags: []
+user_id: Pradeep

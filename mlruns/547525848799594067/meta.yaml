@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/547525848799594067
+creation_time: 1721901958470
+experiment_id: '547525848799594067'
+last_update_time: 1721901958470
+lifecycle_stage: active
+name: iris-dt

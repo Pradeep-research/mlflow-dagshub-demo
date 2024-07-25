@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/329480548196834908/0ff8248a17384d52a7ae8d04ce32f58a/artifacts
+deleted_time: 1721901560581
+end_time: 1721901097332
+entry_point_name: ''
+experiment_id: '329480548196834908'
+lifecycle_stage: deleted
+run_id: 0ff8248a17384d52a7ae8d04ce32f58a
+run_name: gaudy-boar-614
+run_uuid: 0ff8248a17384d52a7ae8d04ce32f58a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721901085611
+status: 3
+tags: []
+user_id: Pradeep
